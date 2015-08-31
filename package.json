@@ -1,0 +1,24 @@
+{
+  "name": "pf-slack",
+  "version": "1.0.0",
+  "description": "Pathfinder Slack Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chantal13/pf-slack.git"
+  },
+  "author": "Chantal Marier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chantal13/pf-slack/issues"
+  },
+  "homepage": "https://github.com/Chantal13/pf-slack#readme",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "request": "^2.61.0"
+  }
+}
