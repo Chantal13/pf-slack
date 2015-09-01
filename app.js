@@ -4,7 +4,7 @@ var hellobot = require('./hellobot');
 var dicebot = require('./dicebot');
 
 var app = express();
-var port = process.env.PORT || 3000;
+var port = process.env.PORT || 2388;
 
 // body parser middleware
 app.use(bodyParser.urlencoded({ extended: true }));
